@@ -1,0 +1,10 @@
+#container{
+  height: 925px;
+  width: 1900px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: beige;
+}
